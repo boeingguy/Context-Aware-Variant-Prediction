@@ -1,0 +1,20 @@
+name: tp53-project
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - biopython
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - jupyter
+  - scanpy
+  - anndata
+  - pytorch
+  - torchvision
+  - transformers
+  - requests
+  - tqdm
